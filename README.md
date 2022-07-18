@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Yuthika Shekhar 
+### I'm Abhijeet Talaulikar
 
 - 🔭 Currently Graduate Data Science student @ University of Rochester, NY
 - 📫 How to reach me: https://www.linkedin.com/in/abhijeet-talaulikar/
