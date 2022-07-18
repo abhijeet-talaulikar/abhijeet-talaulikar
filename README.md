@@ -4,7 +4,7 @@
 
 - 🔭 Currently Graduate Data Science student @ University of Rochester, NY
 - 📫 How to reach me: https://www.linkedin.com/in/abhijeet-talaulikar/
-- ⚡ Interests: Business, Data, Code
+- ⚡ Interested in Business, Data & Code
 
-💬 Link to my Portfolio: https://abhijeet-talaulikar.github.io/
+❤️ Link to my Portfolio: https://abhijeet-talaulikar.github.io/
 
