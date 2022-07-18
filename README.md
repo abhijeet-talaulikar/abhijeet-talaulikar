@@ -8,4 +8,3 @@
 
 💬 Link to my Portfolio: https://abhijeet-talaulikar.github.io/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet-talaulikar)
