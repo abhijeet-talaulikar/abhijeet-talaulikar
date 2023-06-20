@@ -2,7 +2,7 @@
 
 ### I'm Abhijeet Talaulikar
 
-- 🔭 Currently Graduate Data Science student @ University of Rochester, NY
+- 🔭 Currently working as a Data Scientist at Best Buy.
 - 📫 How to reach me: https://www.linkedin.com/in/abhijeet-talaulikar/
 - ⚡ Interested in Business, Data & Code
 
