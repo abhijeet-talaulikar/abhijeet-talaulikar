@@ -6,5 +6,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/abhijeet-talaulikar/
 - ⚡ Interested in Business, Data & Code
 
-❤️ Link to my blog: (https://medium.com/@abhijeetstalaulikar)https://medium.com/@abhijeetstalaulikar
+❤️ Link to my blog: https://medium.com/@abhijeetstalaulikar
 
